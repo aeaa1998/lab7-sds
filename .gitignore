@@ -2,4 +2,13 @@
 /dataset
 /resized
 /models
+/model
 /malimg_paper_dataset_imgs
+*.npy
+/model_v2
+/model_knock_off
+/model_copycatt_cnn
+/random_images
+/images
+/adversarial-robustness-toolbox
+
